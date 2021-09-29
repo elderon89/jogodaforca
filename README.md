@@ -1,2 +1,4 @@
 # Jogo da Forca
-Um simples jogo da forca em Python.
+
+- ENG: A simple Python hangman game.
+- PT-BR: Um simples jogo da forca em Python.
